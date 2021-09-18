@@ -9,4 +9,4 @@
 树莓派3b  
 
 参考项目：  
-https://github.com/lukaiqi/blive-raspberry
+https://github.com/smilecc/blive-raspberry
